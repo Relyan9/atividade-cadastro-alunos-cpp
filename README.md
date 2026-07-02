@@ -27,4 +27,4 @@ Estruturas de repetição;
 Estruturas condicionais;
 Entrada e saída de dados.
 
-Autor: Helian
+Autores: Helian camargo de souza
