@@ -12,12 +12,6 @@ Exibição dos resultados em formato de tabela.
 C++
 iostream
 iomanip
-Como executar
-Compile o arquivo:
-g++ main.cpp -o alunos
-Execute o programa:
-./alunos
-Objetivo
 
 Este projeto foi desenvolvido como atividade acadêmica para praticar conceitos fundamentais da linguagem C++, como:
 
@@ -28,3 +22,9 @@ Estruturas condicionais;
 Entrada e saída de dados.
 
 Autores: Helian camargo de souza
+Bernardo Machado
+Daniel Brunner
+Pedro Henrique Vitorino
+Joao Vitor Dutra
+Vinicyus Gabriel Delfino
+
